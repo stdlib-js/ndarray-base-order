@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-order",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the layout order of a provided ndarray.",
   "license": "Apache-2.0",
   "author": {
@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/ndarray-base-strides2order": "^0.1.0",
+    "@stdlib/ndarray-base-strides2order": "^0.1.1",
     "@stdlib/types": "^0.1.0"
   },
   "devDependencies": {
