@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-08-11)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`ac7d5b4`](https://github.com/stdlib-js/stdlib/commit/ac7d5b41eeefdc2a27ffeb244442c2e29feb728c) - **refactor:** use assertion utility rather than hardcoded string _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
