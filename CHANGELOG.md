@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-05-20)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`1044235`](https://github.com/stdlib-js/stdlib/commit/1044235dd87754267232ac808add6c4bc30b064e) - fallback to default order upon ambiguous input
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`1044235`](https://github.com/stdlib-js/stdlib/commit/1044235dd87754267232ac808add6c4bc30b064e) - **fix:** fallback to default order upon ambiguous input _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-07)
