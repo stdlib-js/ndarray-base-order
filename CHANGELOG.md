@@ -10,6 +10,7 @@
 
 ### Bug Fixes
 
+-   [`b2f66e9`](https://github.com/stdlib-js/stdlib/commit/b2f66e9b5dde7a2a858d27dfd27bd9ec490c9b56) - ensure correct order is returned and fix heading [(#12217)](https://github.com/stdlib-js/stdlib/pull/12217)
 -   [`1044235`](https://github.com/stdlib-js/stdlib/commit/1044235dd87754267232ac808add6c4bc30b064e) - fallback to default order upon ambiguous input
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`b2f66e9`](https://github.com/stdlib-js/stdlib/commit/b2f66e9b5dde7a2a858d27dfd27bd9ec490c9b56) - **fix:** ensure correct order is returned and fix heading [(#12217)](https://github.com/stdlib-js/stdlib/pull/12217) _(by Philipp Burckhardt)_
 -   [`1044235`](https://github.com/stdlib-js/stdlib/commit/1044235dd87754267232ac808add6c4bc30b064e) - **fix:** fallback to default order upon ambiguous input _(by Athan Reines)_
 
 </details>
@@ -34,9 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
